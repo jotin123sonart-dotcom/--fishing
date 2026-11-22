@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.realfishingworld.game",
+  "appName": "REAL FISHING WORLD 3D",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#000000"
+  }
+}
